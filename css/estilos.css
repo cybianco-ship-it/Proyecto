@@ -113,6 +113,8 @@ footer {
     padding: 15px 20px;
     border-radius: 6px;
     margin-bottom: 20px;
+    text-align: left; 
+
 }
 
 .pregunta-box h2 {
